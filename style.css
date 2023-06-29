@@ -1,7 +1,8 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: url('./background.PNG') top center;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 body,html {
